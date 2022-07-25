@@ -1,15 +1,15 @@
 <br />
 <!--![Hello 👋🏻](https://raw.githubusercontent.com/evandycke/evandycke/master/images/evandycke_repo.png)-->
 
-###  Hi there, I'm Elie Vandycke :wave:
+###  Hi there, I'm Mar :wave:
 
-## I'm Coder, Developer and Project Manager
+## I'm Coder, Computer Science Student
 
 - :fire: I am currently curious about everything :smiley:
-- :school_satchel: I'm currently doing BI and Data Integration :loop:
-- :books: I initiate to Talend at the University of Lille (Statistics and Business Intelligence) :green_book:
-- :rocket: 2022 Goals: Enrich my Git repositories :soon:
-- :raised_hands: Fun fact: I love family walks with my dog Jack (a Collie) :zap:
+- :school_satchel: I'm currently studying Java :loop:
+- :books: I want to learn! :green_book:
+- :rocket: 2022 Goals: Organize all my projects in Github :soon:
+- :raised_hands: Fun fact: I love my 4 cats :zap:
 
 ## &#x1f4c8; My GitHub Stats
 
