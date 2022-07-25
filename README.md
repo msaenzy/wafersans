@@ -1,16 +1,22 @@
-### Hi there 👋
+<br />
+<!--![Hello 👋🏻](https://raw.githubusercontent.com/evandycke/evandycke/master/images/evandycke_repo.png)-->
 
-<!--
-**wafersans/wafersans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Hi there, I'm Elie Vandycke :wave:
 
-Here are some ideas to get you started:
+## I'm Coder, Developer and Project Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :fire: I am currently curious about everything :smiley:
+- :school_satchel: I'm currently doing BI and Data Integration :loop:
+- :books: I initiate to Talend at the University of Lille (Statistics and Business Intelligence) :green_book:
+- :rocket: 2022 Goals: Enrich my Git repositories :soon:
+- :raised_hands: Fun fact: I love family walks with my dog Jack (a Collie) :zap:
+
+## &#x1f4c8; My GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evandycke&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evandycke&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evandycke&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evandycke&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evandycke&theme=github_dark)
+
+<br />
