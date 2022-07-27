@@ -9,7 +9,7 @@
 - :school_satchel: I'm currently studying Java :loop:
 - :books: I want to learn! :green_book:
 - :rocket: 2022 Goals: Organize all my projects in Github :soon:
-- :raised_hands: Fun fact: I love my 4 cats :zap:
+- :raised_hands: Fun fact: I love my 3 beautiful cats :zap:
 
 ## &#x1f4c8; My GitHub Stats
 
