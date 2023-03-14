@@ -18,4 +18,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafersans&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wafersans&theme=github_dark)
 
+<!------------->
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-wafersans)
+
 <br />
+
+
