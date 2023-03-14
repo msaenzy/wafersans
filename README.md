@@ -19,7 +19,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafersans&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wafersans&theme=github_dark)
 
 <!------------->
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-wafersans)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wafersans)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
