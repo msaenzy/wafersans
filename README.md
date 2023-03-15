@@ -22,10 +22,10 @@
 
 <!------------->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafersans&theme=outrun)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?wafersans=vn7n24fzkq&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?wafersans=vn7n24fzkq&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?wafersans=vn7n24fzkq&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?wafersans=vn7n24fzkq&theme=algolia&utcOffset=8)
 
 
 <!--- LITERALLY JUST OPEN THE LINK AND CHOOSE THE THEME YOU WANT
