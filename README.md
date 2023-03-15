@@ -11,12 +11,14 @@
 - :raised_hands: Fun fact: I love my cats :zap:
 
 ## &#x1f4c8; My GitHub Stats
+<!-----ORIGINAL
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafersans&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wafersans&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wafersans&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wafersans&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wafersans&theme=github_dark)
+------------->
 
 <!------------->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wafersans&theme=outrun)
@@ -24,6 +26,14 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+<!--- LITERALLY JUST OPEN THE LINK AND CHOOSE THE THEME YOU WANT
+https://github-profile-summary-cards.vercel.app/demo.html
+
+THEME PREVIEW
+https://github.com/vn7n24fzkq/github-profile-summary-cards-example/blob/master/profile-summary-card-output/README.md
+
+--->
 <br />
 
 
